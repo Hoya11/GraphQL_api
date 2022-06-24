@@ -19,10 +19,11 @@
   "homepage": "https://github.com/Hoya11/GraphQL_api#readme",
   "dependencies": {
     "apollo-server": "^3.9.0",
-    "graphql": "^16.5.0"
+    "graphql": "^16.5.0",
+    "node-fetch": "^2.6.7",
+    "upgrade": "^1.1.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.17"
-  },
-  "type":"module"
+  }
 }

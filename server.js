@@ -1,3 +1,3 @@
-import { ApolloServer, gql } from "apollo-server";
+// import { ApolloServer, gql } from "apollo-server";
 
-// const { ApolloServer, gql } = require("apollo-server");
+const { ApolloServer, gql } = require("apollo-server");
